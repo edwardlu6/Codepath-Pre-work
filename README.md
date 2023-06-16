@@ -48,3 +48,16 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+## App Brainstorming
+1.Spotify
+--Changing Playing Pattern
+--Creating Favorite Playlist
+--Listing Different Music Categories
+2.Google Maps
+--Showing the Fastest Path To Destination
+--Estimating the time of each possible path.
+3.YouTube
+--Subscribing favorite channels
+--Posting my own videos.
+
+I have an idea about an improvement on Google Maps. This idea is for music lovers like me. The improvement is that when we set our destination and generate the path to the destination, Google Maps can recommend proper music along the path. Many factors can determine the music along the path, such as time(daytime, night), environment(city, suburb, highway, etc.). Users can either play the music or not play it. This improvement can connect with music apps like Spotify. In this case, people can choose music to listen more conveniently and more importantly, explore new music genres. 
